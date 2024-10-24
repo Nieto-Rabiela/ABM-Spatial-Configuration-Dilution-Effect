@@ -1,16 +1,16 @@
-The Excel file named "Supplementary Material" consists of four sheets:
+The "Supplementary Material" Excel file includes the following four sheets:
 
-"Kind of Movements": This sheet contains the maximum prevalence values from simulations 1 to 1000, divided into five tested movement types:
+Kind of Movements: This sheet organizes the maximum prevalence values obtained from simulations 1 to 1000 into five tested movement types.
 
 Home Range: Circular movement.
 Small World: Linear movement.
-Mix A: Vector follows circular movement, while the host moves randomly.
-Mix B: Host follows circular movement, while the vector moves randomly.
-Random: Both vector and host move randomly.
-Additionally, it records the number of patches agents move through (1, 5, 10, 20, 30, 50).
+Mix A: The vector follows a circular movement while the host moves randomly.
+Mix B: The host follows a circular movement while the vector moves randomly.
+Random: Both the vector and host move randomly.
+Additionally, it records the number of patches that agents move through, with values of 1, 5, 10, 20, 30, and 50.
 
-"Density": This sheet shows the results of the maximum prevalence obtained in each of the 1000 simulations for different density levels. It includes a "Density" column and the distance in patches that agents moved, ranging from 1 to 10.
+Density: This sheet displays the maximum prevalence results obtained in each 1000 simulations, varying by density levels. It includes a "Density" column and the distance in patches that agents moved, ranging from 1 to 10.
 
-Third Sheet: Similar to the "Density" sheet, but it includes diversity among vectors.
+Vector Diversity: This sheet is similar to the "Density" sheet but includes diversity among vectors.
 
-Fourth Sheet: Also similar to the "Density" sheet, but it includes diversity among hosts.
+Host Diversity: Similar to the "Density" sheet, this one focuses on the diversity among hosts.
